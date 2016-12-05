@@ -1,0 +1,30 @@
+{
+  "name": "c9-react-hot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A starting point for react hot loading in c9.io",
+  "author": "Dev Circle Nepal",
+  "keywords": [
+    "react",
+    "webpack",
+    "c9.io",
+    "react-hot"
+  ],
+  "scripts": {
+    "dev": "NODE_ENV=development webpack-dev-server --host $IP --port $PORT --config webpack.dev.config.js --progress"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "react-hot-loader": "^3.0.0-beta.6",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
