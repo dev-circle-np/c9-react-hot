@@ -26,6 +26,6 @@ This version is setup to be compatible with the [Cloud9 IDE](https://c9.io/).
 **To see the hot reloader in action open the browser console and make a change to the text in App.js**
 
 # Contributors
-   [cswl](https://github.com/cswl)
+   [cswl](https://github.com/cswl)  
    [Ramesh Syangtan](https://github.com/rameshsyn)
    
