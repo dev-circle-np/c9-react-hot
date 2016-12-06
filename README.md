@@ -1,6 +1,6 @@
-#BlankApplication on [Cloud9 IDE](https://c9.io/)
+#React Hot Reload App on [Cloud9 IDE](https://c9.io/)
 
-This is a blank "Hello World" style application that installs all the necessary dependencies without any functionality beyond rendering one React component.  
+This is a blank "Hello World" style application that has all the necessary dependencies without any functionality beyond rendering one React component. 
 It has Hot Reloading functionality included.  Clean with no boilerplate functionality.
 
 This version is setup to be compatible with the [Cloud9 IDE](https://c9.io/).
@@ -23,4 +23,9 @@ This version is setup to be compatible with the [Cloud9 IDE](https://c9.io/).
 1. Go to Window -> Share
 2. Click the Application URL and select Open
 
-**To see the hot reloader in action open the browser console and make a change to the text in index.js**
+**To see the hot reloader in action open the browser console and make a change to the text in App.js**
+
+# Contributors
+   [cswl](https://github.com/cswl)
+   [Ramesh Syangtan](https://github.com/rameshsyn)
+   
